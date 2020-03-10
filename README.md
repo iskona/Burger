@@ -1,6 +1,6 @@
 # Eat-Da-Burger
 
-[Click here](https://pure-retreat-37688.herokuapp.com/) to launch this project on Heroku.
+<!-- [Click here](https://pure-retreat-37688.herokuapp.com/) to launch this project on Heroku. -->
 
 ## Built with
 
