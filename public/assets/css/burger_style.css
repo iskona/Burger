@@ -1,0 +1,51 @@
+body {
+    background-color: #231f20;
+    color: #FFF;
+    text-align: center;
+    margin: 0 auto;
+    font-family: 'Raleway', sans-serif;
+    font-size: 17px;
+}
+
+img {
+    height: 50vh;
+    width: 100%;
+}
+
+h1 {
+    margin: 0px;
+    font-family: 'Oswald', sans-serif;
+    font-size: -webkit-xxx-large;
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+  
+.row:after {
+    display: table;
+    clear: both;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    margin-bottom: .5rem;
+}
+
+input, button {
+    border-radius: 25px;
+    border-style: none;
+    font-size: 17px;
+    color: #9a5f1a;
+    margin-left: 10px;
+}
+
+label {
+    font-size: x-large;
+}
